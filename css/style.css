@@ -465,7 +465,7 @@ html, body {
 
 /* TIMELINE PAR CONTAINER */
 .timeline-container {
-  min-height: 100vh;
+  min-height: 50vh;
   margin-top: 30px;
   width: 100%;
   display: flex;
@@ -486,6 +486,8 @@ html, body {
   max-width: 800px;
   margin: 0 auto;
   position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .timeline ul {
