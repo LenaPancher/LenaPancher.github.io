@@ -257,11 +257,10 @@ html, body {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
-  align-items: center;
 }
 
 .skillPresentation h2 {
-  padding-left: 13%;
+  padding-left: 20%;
   padding-bottom: 3%;
 }
 
